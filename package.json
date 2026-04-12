@@ -1,0 +1,20 @@
+{
+  "name": "mingfa_paipan",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/random_test.js"
+  },
+  "keywords": [
+    "qimen",
+    "paipan",
+    "mingfa",
+    "lunar"
+  ],
+  "description": "鸣法飞盘奇门排盘引擎 (Mingfa Qimen Engine)",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lunar-javascript": "^1.7.7"
+  }
+}
